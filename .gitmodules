@@ -1,0 +1,3 @@
+[submodule "MetaGPT"]
+	path = MetaGPT
+	url = https://github.com/Abir196/MetaGPT
